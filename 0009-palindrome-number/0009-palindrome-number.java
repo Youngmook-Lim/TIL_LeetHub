@@ -1,8 +1,16 @@
 class Solution {
     public boolean isPalindrome(int x) {
-        StringBuilder sb = new StringBuilder();
-        sb.append(x);
-
-        return sb.toString().equals(sb.reverse().toString());
+        if (x < 0) return false;
+        
+        int len = (int) Math.log10(x) + 1;
+        
+        for (int i = 1; i <= len / 2; i++) {
+            int left = (int) (x / Math.pow(10, (len - i)) % 10);
+            int right = (int) (x % Math.pow(10, i) / Math.pow(10, i - 1));
+            // System.out.println(left + " " + right);
+            if (left != right) return false;
+        }
+        
+        return true;
     }
 }
