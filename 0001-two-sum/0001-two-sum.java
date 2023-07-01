@@ -12,8 +12,6 @@ class Solution {
         
         Arrays.sort(nums);
         
-        System.out.println(map.get(3));
-        
         int left = 0;
         int right = nums.length - 1;
         
