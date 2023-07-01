@@ -7,7 +7,10 @@ class Solution {
                 map.put(nums[i], new ArrayList<>());
             }
             
-            map.get(nums[i]).add(i);
+            if (map.get(nums[i]).size() < 2) {
+                map.get(nums[i]).add(i);            
+            }
+            
         }
         
         Arrays.sort(nums);
