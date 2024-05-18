@@ -8,6 +8,6 @@ class Solution {
             sb.append(tmp[i]).append(' ');
         }
         
-        return sb.deleteCharAt(sb.length() - 1).toString();
+        return sb.toString().trim();
     }
 }
