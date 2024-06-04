@@ -2,10 +2,11 @@ import java.util.Arrays;
 
 class Solution {
     public int differenceOfSum(int[] nums) {
-        int es = Arrays.stream(nums).sum();
-        
+        int es = 0;      
         int ds = 0;
+        
         for (int x : nums) {
+            es += x;
             while (x > 0) {
                 ds += x % 10;  
                 x /= 10;       
