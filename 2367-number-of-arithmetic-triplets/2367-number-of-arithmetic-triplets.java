@@ -1,14 +1,13 @@
 class Solution {
     public int arithmeticTriplets(int[] nums, int diff) {
         int cnt = 0;
-        int n = nums.length;
-        for (int i = 0; i < n - 2; i++) {
-            for (int j = i + 1; j < n - 1; j++) {
-                for (int k = j + 1; k < n; k++) {
-                    if (nums[j] - nums[i] == diff
-                       && nums[k] - nums[j] == diff) cnt++;
-                }
+        boolean[] visited = new boolean[201];
+        
+        for (int num : nums) {
+            if (num >= diff * 2) {
+                if (visited[num - diff] && visited[num - 2 * diff]) cnt++;
             }
+            visited[num] = true;
         }
         
         return cnt;
