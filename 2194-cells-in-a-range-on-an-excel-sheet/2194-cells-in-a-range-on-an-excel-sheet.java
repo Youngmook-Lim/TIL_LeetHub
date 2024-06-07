@@ -12,7 +12,7 @@ class Solution {
         
         for (char i = startCol; i <= endCol; i++) {
             for (char j = startRow; j <= endRow; j++) {
-                list.add(Character.toString(i) + Character.toString(j));
+                list.add(new String(new char[]{i, j}));
             }
         }
         
