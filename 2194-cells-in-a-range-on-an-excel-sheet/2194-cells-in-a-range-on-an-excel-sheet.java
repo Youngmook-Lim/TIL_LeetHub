@@ -2,11 +2,11 @@ import java.util.*;
 
 class Solution {
     public List<String> cellsInRange(String s) {
-        String[] tmp = s.split(":");
-        char startCol = tmp[0].charAt(0);
-        char startRow = tmp[0].charAt(1);
-        char endCol = tmp[1].charAt(0);
-        char endRow = tmp[1].charAt(1);
+
+        char startCol = s.charAt(0);
+        char startRow = s.charAt(1);
+        char endCol = s.charAt(3);
+        char endRow = s.charAt(4);
         
         List<String> list = new ArrayList<>();
         
