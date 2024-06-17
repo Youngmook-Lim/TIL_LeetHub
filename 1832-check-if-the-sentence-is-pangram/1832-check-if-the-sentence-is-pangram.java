@@ -8,6 +8,7 @@ class Solution {
                 isPresent[idx] = true;
                 cnt++;
             }
+            if (cnt == 26) return true;
         }
         return cnt == 26;
     }
