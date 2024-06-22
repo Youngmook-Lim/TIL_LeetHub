@@ -5,10 +5,9 @@ class Solution {
         String[] arr = s.split(" ");
         StringBuilder sb = new StringBuilder();
         for (String x : arr) {
-            for (int i = x.length() - 1; i >= 0; i--) {
-                sb.append(x.charAt(i));
-            }
-            sb.append(' ');
+            StringBuilder tmp = new StringBuilder(x);
+            tmp.reverse();
+            sb.append(tmp).append(' ');
         }
 
         return sb.toString().trim();
