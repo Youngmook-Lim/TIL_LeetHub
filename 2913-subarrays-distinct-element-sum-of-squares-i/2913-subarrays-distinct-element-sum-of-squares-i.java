@@ -3,11 +3,9 @@ class Solution {
         int sum = 0;
         
         for (int i = 0; i < nums.size(); i++) {
-            for (int j = 0; j + i < nums.size(); j++) {
-                Set<Integer> set = new HashSet<>();
-                for (int k = j; k <= j + i; k++) {
-                    set.add(nums.get(k));
-                }
+            Set<Integer> set = new HashSet<>();
+            for (int j = i; j < nums.size(); j++) {
+                set.add(nums.get(j));
                 sum += Math.pow(set.size(), 2);
             }
         }
