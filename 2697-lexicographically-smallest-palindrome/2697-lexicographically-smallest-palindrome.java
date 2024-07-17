@@ -2,15 +2,21 @@ class Solution {
     public String makeSmallestPalindrome(String s) {
         char[] arr = s.toCharArray();
         int cnt = 0;
-        for (int i = 0; i < arr.length / 2; i++) {
-            if (arr[i] != arr[arr.length - i - 1]) {
-                if (arr[i] > arr[arr.length - i - 1]) {
-                    arr[i] = arr[arr.length - i - 1];
+        int left = 0;
+        int right = arr.length - 1;
+        
+        while (left < right) {
+            if (arr[left] != arr[right]) {
+                if (arr[left] > arr[right]) {
+                    arr[left] = arr[right];
                 } else {
-                    arr[arr.length - i - 1] = arr[i];
+                    arr[right] = arr[left];
                 }
                 cnt++;
             }
+            
+            left++;
+            right--;
         }
         
         if (cnt == 0) {
