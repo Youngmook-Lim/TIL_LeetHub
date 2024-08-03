@@ -15,21 +15,15 @@
  */
 class Solution {
     public TreeNode searchBST(TreeNode root, int val) {
+        if (root == null) return null;
+        
         int cur = root.val;
         if (cur == val) {
             return root;
         } else if (cur > val) {
-            if (root.left != null) {
-                return searchBST(root.left, val);    
-            } else {
-                return null;
-            }        
+            return searchBST(root.left, val);
         } else {
-            if (root.right != null) {
-                return searchBST(root.right, val);                
-            } else {
-                return null;
-            }
+            return searchBST(root.right, val);
         }
     }
 }
