@@ -1,8 +1,8 @@
 class Solution {
     public int[] separateDigits(int[] nums) {
         return Arrays.stream(nums)
-            .flatMap(n -> Arrays.stream(Integer.toString(n).split(""))
-                        .mapToInt(Integer::parseInt))
+            .mapToObj(Integer::toString)
+            .flatMapToInt(str -> str.chars().map(c -> c - '0'))
             .toArray();
     }
 }
