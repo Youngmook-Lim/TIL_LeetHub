@@ -1,11 +1,9 @@
 class Solution {
     public int countCompleteDayPairs(int[] hours) {
-        int cnt = 0;
-        for (int i = 0; i < hours.length - 1; i++) {
-            for (int j = i + 1; j < hours.length; j++) {
-                if ((hours[i] + hours[j]) % 24 == 0) cnt++;
-            }
-        }
-        return cnt;
+        return IntStream.range(0, hours.length - 1)
+                        .map(i -> (int) IntStream.range(i + 1, hours.length)
+                                                 .filter(j -> (hours[i] + hours[j]) % 24 == 0)
+                                                 .count())
+                        .sum();
     }
 }
