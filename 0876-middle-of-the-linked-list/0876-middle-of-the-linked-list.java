@@ -20,7 +20,7 @@ class Solution {
         
         while (head.next != null) {
             head = head.next;
-            if (--cnt == 0) return head;
+            if (--cnt == 0) break;
         }
         return head;
     }
