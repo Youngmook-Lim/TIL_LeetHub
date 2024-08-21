@@ -12,7 +12,6 @@ class Solution {
             zero++;
         }
         while (left < n) {
-            String ss = s.substring(left, right);
             
             if (one <= k || zero <= k) {
                 right++;
