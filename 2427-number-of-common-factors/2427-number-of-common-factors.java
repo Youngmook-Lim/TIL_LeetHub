@@ -13,9 +13,9 @@ class Solution {
     }
     
     public int getGcd(int a, int b) {
-        if (a % b == 0) {
-            return b;
+        if (b == 0) {
+            return a;
         }
-        return getGcd(b % a, a);
+        return getGcd(b, a % b);
     }
 }
