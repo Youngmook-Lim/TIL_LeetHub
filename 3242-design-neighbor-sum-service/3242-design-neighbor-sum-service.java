@@ -25,16 +25,16 @@ class NeighborSum {
         
         int sum = 0;
         
-        if (i + 1 >= 0 && i + 1 < n && j >= 0 && j < n) {
+        if (i + 1 < n) {
             sum += grid[i + 1][j];
         }
-        if (i - 1 >= 0 && i - 1 < n && j >= 0 && j < n) {
+        if (i - 1 >= 0) {
             sum += grid[i - 1][j];
         }
-        if (i >= 0 && i < n && j + 1 >= 0 && j + 1 < n) {
+        if (j + 1 < n) {
             sum += grid[i][j + 1];
         }
-        if (i >= 0 && i < n && j - 1 >= 0 && j - 1 < n) {
+        if (j - 1 >= 0) {
             sum += grid[i][j - 1];
         }
 
@@ -58,16 +58,16 @@ class NeighborSum {
         
         int sum = 0;
         
-        if (i + 1 >= 0 && i + 1 < n && j + 1 >= 0 && j + 1 < n) {
+        if (i + 1 < n && j + 1 < n) {
             sum += grid[i + 1][j + 1];
         }
-        if (i - 1 >= 0 && i - 1 < n && j + 1 >= 0 && j + 1 < n) {
+        if (i - 1 >= 0 && j + 1 < n) {
             sum += grid[i - 1][j + 1];
         }
-        if (i - 1 >= 0 && i - 1 < n && j - 1 >= 0 && j - 1 < n) {
+        if (i - 1 >= 0 && j - 1 >= 0) {
             sum += grid[i - 1][j - 1];
         }
-        if (i + 1 >= 0 && i + 1 < n && j - 1 >= 0 && j - 1 < n) {
+        if (i + 1 < n && j - 1 >= 0) {
             sum += grid[i + 1][j - 1];
         }
         
