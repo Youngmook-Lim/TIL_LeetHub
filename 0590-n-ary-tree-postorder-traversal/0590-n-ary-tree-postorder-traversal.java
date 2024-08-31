@@ -21,10 +21,16 @@ class Solution {
     public List<Integer> postorder(Node root) {
         List<Integer> list = new ArrayList<>();
         if (root == null) return list;
+        
+        dfs(list, root);
+        
+        return list;
+    }
+    
+    public void dfs(List<Integer> list, Node root) {
         for (Node n : root.children) {
-            list.addAll(postorder(n));
+            dfs(list, n);
         }
         list.add(root.val);
-        return list;
     }
 }
