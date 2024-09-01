@@ -8,12 +8,13 @@ class Solution {
     }
     
     public boolean isSelfDividing(int n) {
-        String str = Integer.toString(n);
+        int m = n;
         
-        for (int i = 0; i < str.length(); i++) {
-            int c = str.charAt(i) - '0';
+        while (m > 0) {
+            int c = m % 10;
             if (c == 0) return false;
             if (n % c != 0) return false;
+            m /= 10;
         }
         
         return true;
