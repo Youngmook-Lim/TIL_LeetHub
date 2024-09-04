@@ -8,8 +8,6 @@ class Solution {
             list.add(n);
         }
         
-        Collections.sort(list);
-        
         for (int s : list) {
             if (s >= max) {
                 if (s == max) {
