@@ -1,18 +1,17 @@
 class Solution {
     public boolean halvesAreAlike(String s) {
 
-        int front = 0;
-        int back = 0;
+        int cnt = 0;
         for (int i = 0; i < s.length(); i++) {
             char c = s.charAt(i);
             if (i < s.length() / 2) {
-                if (isVowel(c)) front++;
+                if (isVowel(c)) cnt++;
             } else {
-                if (isVowel(c)) back++;
+                if (isVowel(c)) cnt--;
             }
         }
         
-        return front == back;
+        return cnt == 0;
         
     }
     
