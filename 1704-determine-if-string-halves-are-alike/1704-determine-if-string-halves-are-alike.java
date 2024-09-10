@@ -1,16 +1,16 @@
 class Solution {
     public boolean halvesAreAlike(String s) {
-        Set<Character> set = new HashSet<>();
-        set.add('a');
-        set.add('e');
-        set.add('i');
-        set.add('o');
-        set.add('u');
-        set.add('A');
-        set.add('E');
-        set.add('I');
-        set.add('O');
-        set.add('U');
+        Set<Character> set = Set.of('a', 'e', 'i', 'o', 'u', 'A', 'E', 'I', 'O', 'U');
+        // set.add('a');
+        // set.add('e');
+        // set.add('i');
+        // set.add('o');
+        // set.add('u');
+        // set.add('A');
+        // set.add('E');
+        // set.add('I');
+        // set.add('O');
+        // set.add('U');
         
         int front = 0;
         int back = 0;
