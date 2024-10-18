@@ -1,22 +1,24 @@
 class RecentCounter {
     
-    List<Integer> list;
+    int[] list;
     int idx;
+    int end;
     
     public RecentCounter() {
-        list = new ArrayList<>();
+        list = new int[10001];
         idx = 0;
+        end = 0;
     }
     
     public int ping(int t) {
-        list.add(t);
+        list[end++] = t;
         int tmp = t - 3000;
         
-        while (idx < list.size()) {
-            if (list.get(idx) >= tmp) break;
+        while (idx < end) {
+            if (list[idx] >= tmp) break;
             idx++;
         }
-        return list.size() - idx;
+        return end - idx;
     }
 }
 
