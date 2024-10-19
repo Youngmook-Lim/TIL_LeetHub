@@ -3,24 +3,16 @@ class Solution {
     int cnt = 0;
      
     public int distributeCandies(int n, int limit) {
-        dfs(n, limit, 1);
+        
+        for (int i = 0; i <= Math.min(n, limit); i++) {
+            for (int j = 0; j <= Math.min(n - i, limit); j++) {
+                int k = n - i - j;
+                if (k >= 0 && k <= limit) cnt++;
+            }
+        }
         
         return cnt;
     }
     
-    public void dfs(int n, int limit, int depth) {
-        if (depth == 3) {
-            if (n <= limit) {
-                cnt++;
-            }
-            return;
-        }
-        
-        for (int i = 0; i <= limit; i++) {
-            int tmp = n - i;
-            if (tmp < 0) return;
-            dfs(tmp, limit, depth + 1);
-        }
-        
-    }
+
 }
