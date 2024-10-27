@@ -4,8 +4,12 @@ class Solution {
         int cnt = 0;
         
         for (char c : word.toCharArray()) {
-            cnt += Math.min(Math.abs(c - prev), 26 - Math.abs(c - prev)) ;
-            cnt++;
+            int abs = Math.abs(c - prev);
+            if (abs <= 13) {
+                cnt += abs + 1;
+            } else {
+                cnt += 27 - abs;
+            }
             prev = c;
         }
         
