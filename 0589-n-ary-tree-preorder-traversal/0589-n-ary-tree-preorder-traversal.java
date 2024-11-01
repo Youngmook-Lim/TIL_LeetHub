@@ -24,6 +24,7 @@ class Solution {
         
         list.add(root.val);
         for (Node n : root.children) {
+            if (n == null) continue;
             list.addAll(preorder(n));
         }
         return list;
