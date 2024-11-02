@@ -1,9 +1,10 @@
 class Solution {
     public boolean isArraySpecial(int[] nums) {
-        for (int i = 0; i < nums.length - 1; i++) {
+        int prev = nums[0] % 2;
+        for (int i = 1; i < nums.length; i++) {
             int a = nums[i] % 2;
-            int b = nums[i + 1] % 2;
-            if (a == b) return false;
+            if (a == prev) return false;
+            prev = a;
         }
         return true;
     }
