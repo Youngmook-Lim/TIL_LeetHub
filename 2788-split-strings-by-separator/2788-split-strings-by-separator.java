@@ -4,7 +4,7 @@ class Solution {
         for (String s : words) {         
             String[] tmp = s.split("[" + separator + "]");
             for (String str : tmp) {
-                if (!str.equals("")) {
+                if (str.length() > 0) {
                     list.add(str);
                 }
             }
