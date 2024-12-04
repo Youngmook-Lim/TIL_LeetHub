@@ -5,9 +5,16 @@ class Solution {
         int total = 0;
         int idx = 0;
         
-        while (truckSize-- > 0 && idx < boxTypes.length) {
-            boxTypes[idx][0]--;
-            total += boxTypes[idx][1];
+        while (idx < boxTypes.length) {
+            if (boxTypes[idx][0] < truckSize) {
+                total += boxTypes[idx][0] * boxTypes[idx][1];
+                truckSize -= boxTypes[idx][0];
+                boxTypes[idx][0] = 0;
+            } else {
+                total += truckSize * boxTypes[idx][1];
+                break;
+            }
+            
             if (boxTypes[idx][0] == 0) {
                 idx++;
             }
