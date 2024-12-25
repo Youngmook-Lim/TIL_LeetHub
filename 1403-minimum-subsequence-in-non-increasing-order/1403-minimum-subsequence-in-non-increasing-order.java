@@ -18,8 +18,6 @@ class Solution {
             if (subTotal > total) break;
         }
         
-        Collections.sort(list, Collections.reverseOrder());
-        
         return list;
     }
 }
