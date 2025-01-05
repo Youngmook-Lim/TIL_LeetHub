@@ -10,6 +10,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Greedy
 |  |
@@ -42,4 +43,12 @@
 |  |
 | ------- |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/0774-maximum-depth-of-n-ary-tree) |
+## String
+|  |
+| ------- |
+| [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
+## Counting
+|  |
+| ------- |
+| [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 <!---LeetCode Topics End-->
