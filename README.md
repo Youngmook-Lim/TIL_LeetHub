@@ -31,6 +31,7 @@
 | ------- |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/3347-distribute-elements-into-two-arrays-i) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Tree
 |  |
 | ------- |
@@ -51,4 +52,16 @@
 |  |
 | ------- |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
+## Math
+|  |
+| ------- |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+## Recursion
+|  |
+| ------- |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 <!---LeetCode Topics End-->
