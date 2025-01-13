@@ -56,6 +56,7 @@
 |  |
 | ------- |
 | [0841-shortest-distance-to-a-character](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/0841-shortest-distance-to-a-character) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 ## Counting
