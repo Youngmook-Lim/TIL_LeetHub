@@ -9,6 +9,7 @@
 | [0841-shortest-distance-to-a-character](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/0841-shortest-distance-to-a-character) |
 | [1094-matrix-cells-in-distance-order](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1094-matrix-cells-in-distance-order) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2566-number-of-unequal-triplets-in-array) |
@@ -18,6 +19,7 @@
 |  |
 | ------- |
 | [0500-keyboard-row](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/0500-keyboard-row) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2566-number-of-unequal-triplets-in-array) |
@@ -67,12 +69,14 @@
 | [0500-keyboard-row](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/0500-keyboard-row) |
 | [0841-shortest-distance-to-a-character](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/0841-shortest-distance-to-a-character) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2594-count-pairs-of-similar-strings) |
 ## Counting
 |  |
 | ------- |
+| [2190-count-common-words-with-one-occurrence](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2594-count-pairs-of-similar-strings) |
 ## Math
