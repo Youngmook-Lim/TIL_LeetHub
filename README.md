@@ -54,15 +54,18 @@
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/0144-binary-tree-preorder-traversal) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/0774-maximum-depth-of-n-ary-tree) |
+| [1005-univalued-binary-tree](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1005-univalued-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/0144-binary-tree-preorder-traversal) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/0774-maximum-depth-of-n-ary-tree) |
+| [1005-univalued-binary-tree](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1005-univalued-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/0774-maximum-depth-of-n-ary-tree) |
+| [1005-univalued-binary-tree](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1005-univalued-binary-tree) |
 ## String
 |  |
 | ------- |
@@ -132,4 +135,5 @@
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/0144-binary-tree-preorder-traversal) |
+| [1005-univalued-binary-tree](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1005-univalued-binary-tree) |
 <!---LeetCode Topics End-->
