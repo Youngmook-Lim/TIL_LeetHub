@@ -1,15 +1,8 @@
 class Solution:
     def construct2DArray(self, original: List[int], m: int, n: int) -> List[List[int]]:
-        
-        target = n * m
-        if target != len(original):
+        # Check if the transformation is possible
+        if len(original) != m * n:
             return []
-
-        graph = [[0 for _ in range(n)] for _ in range(m)]
-
-        for i in range(len(original)):
-            y = i // n
-            x = i % n
-            graph[y][x] = original[i]
-
-        return graph
+        
+        # Use slicing to construct the 2D array directly
+        return [original[i * n: (i + 1) * n] for i in range(m)]
