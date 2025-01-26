@@ -8,6 +8,7 @@
 | [0506-relative-ranks](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/0506-relative-ranks) |
 | [0841-shortest-distance-to-a-character](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/0841-shortest-distance-to-a-character) |
 | [1094-matrix-cells-in-distance-order](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1094-matrix-cells-in-distance-order) |
+| [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1720-crawler-log-folder](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1720-crawler-log-folder) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2132-convert-1d-array-into-2d-array) |
