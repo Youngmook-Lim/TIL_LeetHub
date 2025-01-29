@@ -8,6 +8,7 @@
 | [0506-relative-ranks](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/0506-relative-ranks) |
 | [0841-shortest-distance-to-a-character](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/0841-shortest-distance-to-a-character) |
 | [0944-smallest-range-i](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/0944-smallest-range-i) |
+| [0958-sort-array-by-parity-ii](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/0958-sort-array-by-parity-ii) |
 | [1094-matrix-cells-in-distance-order](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1094-matrix-cells-in-distance-order) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
@@ -41,6 +42,7 @@
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/0506-relative-ranks) |
+| [0958-sort-array-by-parity-ii](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/0958-sort-array-by-parity-ii) |
 | [1094-matrix-cells-in-distance-order](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1094-matrix-cells-in-distance-order) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -142,6 +144,7 @@
 |  |
 | ------- |
 | [0841-shortest-distance-to-a-character](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/0841-shortest-distance-to-a-character) |
+| [0958-sort-array-by-parity-ii](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/0958-sort-array-by-parity-ii) |
 ## Stack
 |  |
 | ------- |
