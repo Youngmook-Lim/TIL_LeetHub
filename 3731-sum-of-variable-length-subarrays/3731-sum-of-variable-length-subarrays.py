@@ -1,8 +1,8 @@
 class Solution:
     def subarraySum(self, nums: List[int]) -> int:
-        arr = [0 for _ in range(len(nums) + 1)]
+        arr = [0]
         for i in range(len(nums)):
-            arr[i + 1] = arr[i] + nums[i]
+            arr.append(arr[i] + nums[i])
         
         sum = 0
         for i in range(len(nums)):
