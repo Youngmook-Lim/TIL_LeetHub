@@ -23,6 +23,7 @@
 | [2566-number-of-unequal-triplets-in-array](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2594-count-pairs-of-similar-strings) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/3731-sum-of-variable-length-subarrays) |
@@ -102,6 +103,7 @@
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2476-check-distances-between-same-letters](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2476-check-distances-between-same-letters) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2594-count-pairs-of-similar-strings) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Counting
 |  |
 | ------- |
@@ -175,4 +177,20 @@
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/0144-binary-tree-preorder-traversal) |
 | [1005-univalued-binary-tree](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1005-univalued-binary-tree) |
+## Trie
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Rolling Hash
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## String Matching
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Hash Function
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 <!---LeetCode Topics End-->
