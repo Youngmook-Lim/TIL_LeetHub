@@ -27,6 +27,7 @@
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/3731-sum-of-variable-length-subarrays) |
+| [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Hash Table
 |  |
 | ------- |
