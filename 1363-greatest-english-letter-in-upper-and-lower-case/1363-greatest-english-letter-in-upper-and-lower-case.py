@@ -4,8 +4,9 @@ class Solution:
         my_set = set()
         for c in s:
             my_set.add(c)
-            if c.lower() in my_set and c.upper() in my_set:
-                if ord(c.upper()) > ord(max_char):
-                    max_char = c.upper()
+            u = c.upper()
+            if c.lower() in my_set and u in my_set:
+                if ord(u) > ord(max_char):
+                    max_char = u
         
         return max_char if max_char != '0' else ''
