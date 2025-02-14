@@ -110,6 +110,7 @@
 | [2580-circular-sentence](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2580-circular-sentence) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2594-count-pairs-of-similar-strings) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 ## Counting
 |  |
 | ------- |
@@ -127,6 +128,7 @@
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1642-water-bottles](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1642-water-bottles) |
 | [2650-split-with-minimum-sum](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2650-split-with-minimum-sum) |
+| [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Bit Manipulation
