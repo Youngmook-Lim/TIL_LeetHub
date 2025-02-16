@@ -125,6 +125,7 @@
 ## Math
 |  |
 | ------- |
+| [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0944-smallest-range-i](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/0944-smallest-range-i) |
 | [1013-fibonacci-number](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1013-fibonacci-number) |
 | [1094-matrix-cells-in-distance-order](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1094-matrix-cells-in-distance-order) |
@@ -137,6 +138,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2594-count-pairs-of-similar-strings) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Recursion
