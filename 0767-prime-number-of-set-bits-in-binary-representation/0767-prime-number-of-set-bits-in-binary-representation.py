@@ -3,7 +3,7 @@ class Solution:
         cnt = 0
         arr = setup_prime_array(right)
         for n in range(left, right + 1):
-            set_bits = count_set_bits(n)
+            set_bits = bin(n).count('1')
             if arr[set_bits] == 0:
                 cnt += 1
         
@@ -18,14 +18,3 @@ def setup_prime_array(m):
             for j in range(i * 2, n + 1, i):
                 arr[j] = 1
     return arr
-
-def count_set_bits(n):
-    cnt = 0
-    idx = 1
-    while idx <= n:
-        if n & idx > 0:
-            cnt += 1
-        idx <<= 1
-    return cnt
-
-    
