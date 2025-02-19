@@ -17,6 +17,7 @@
 | [1720-crawler-log-folder](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1720-crawler-log-folder) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2190-count-common-words-with-one-occurrence) |
+| [2195-time-needed-to-buy-tickets](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2195-time-needed-to-buy-tickets) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2469-longest-subsequence-with-limited-sum) |
@@ -74,6 +75,7 @@
 | ------- |
 | [1642-water-bottles](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1642-water-bottles) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2195-time-needed-to-buy-tickets](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2195-time-needed-to-buy-tickets) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2698-find-the-array-concatenation-value](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2698-find-the-array-concatenation-value) |
@@ -214,4 +216,8 @@
 |  |
 | ------- |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
+## Queue
+|  |
+| ------- |
+| [2195-time-needed-to-buy-tickets](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2195-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
