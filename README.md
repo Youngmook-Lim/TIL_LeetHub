@@ -78,6 +78,7 @@
 | [2132-convert-1d-array-into-2d-array](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2195-time-needed-to-buy-tickets) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2698-find-the-array-concatenation-value](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2698-find-the-array-concatenation-value) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/3347-distribute-elements-into-two-arrays-i) |
@@ -227,6 +228,7 @@
 ## Linked List
 |  |
 | ------- |
+| [2299-merge-nodes-in-between-zeros](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Number Theory
 |  |
