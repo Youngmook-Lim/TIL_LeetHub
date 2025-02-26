@@ -18,6 +18,7 @@
 | [1720-crawler-log-folder](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1720-crawler-log-folder) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2195-time-needed-to-buy-tickets) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -152,6 +153,7 @@
 | ------- |
 | [0476-number-complement](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/0476-number-complement) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2594-count-pairs-of-similar-strings) |
 | [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -228,6 +230,7 @@
 |  |
 | ------- |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Queue
 |  |
 | ------- |
@@ -249,4 +252,8 @@
 |  |
 | ------- |
 | [1572-subrectangle-queries](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1572-subrectangle-queries) |
+## Backtracking
+|  |
+| ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 <!---LeetCode Topics End-->
