@@ -25,6 +25,7 @@
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2476-check-distances-between-same-letters](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2476-check-distances-between-same-letters) |
+| [2519-find-the-original-array-of-prefix-xor](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2594-count-pairs-of-similar-strings) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -154,6 +155,7 @@
 | [0476-number-complement](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/0476-number-complement) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2519-find-the-original-array-of-prefix-xor](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2594-count-pairs-of-similar-strings) |
 | [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/3600-find-the-k-th-character-in-string-game-i) |
