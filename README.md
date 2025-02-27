@@ -144,6 +144,7 @@
 | [1094-matrix-cells-in-distance-order](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1094-matrix-cells-in-distance-order) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1642-water-bottles](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1642-water-bottles) |
+| [2481-strictly-palindromic-number](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2481-strictly-palindromic-number) |
 | [2650-split-with-minimum-sum](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2650-split-with-minimum-sum) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
@@ -199,6 +200,7 @@
 | ------- |
 | [0841-shortest-distance-to-a-character](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/0841-shortest-distance-to-a-character) |
 | [0958-sort-array-by-parity-ii](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/0958-sort-array-by-parity-ii) |
+| [2481-strictly-palindromic-number](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2481-strictly-palindromic-number) |
 | [2698-find-the-array-concatenation-value](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2698-find-the-array-concatenation-value) |
 ## Stack
 |  |
@@ -258,4 +260,8 @@
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Brainteaser
+|  |
+| ------- |
+| [2481-strictly-palindromic-number](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2481-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
