@@ -30,6 +30,7 @@
 | [2594-count-pairs-of-similar-strings](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2594-count-pairs-of-similar-strings) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2698-find-the-array-concatenation-value](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2698-find-the-array-concatenation-value) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/3347-distribute-elements-into-two-arrays-i) |
@@ -50,6 +51,7 @@
 | [2476-check-distances-between-same-letters](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2476-check-distances-between-same-letters) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2594-count-pairs-of-similar-strings) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Greedy
 |  |
 | ------- |
@@ -158,6 +160,7 @@
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2594-count-pairs-of-similar-strings) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Recursion
