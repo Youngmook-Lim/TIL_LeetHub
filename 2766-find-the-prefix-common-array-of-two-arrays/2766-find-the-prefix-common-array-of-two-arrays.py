@@ -1,30 +1,23 @@
 class Solution:
     def findThePrefixCommonArray(self, A: List[int], B: List[int]) -> List[int]:
-        dic = {}
         n = len(A)
-        cnt = 0
-        res = [0 for _ in range(n)]
-
-        for i in range(n):
-            a = A[i]
-            b = B[i]
-            if a in dic:
-                dic[a] += 1
-            else:
-                dic[a] = 1
-
-            if b in dic:
-                dic[b] += 1
-            else:
-                dic[b] = 1
-            
-            if dic[a] == 2:
-                cnt += 1
-                dic[a] = 0
-            if dic[b] == 2:
-                cnt += 1
-                dic[b] = 0
-            
-            res[i] = cnt
+        seen = set()  # Using a set instead of dictionary
+        res = [0] * n  # Simplified initialization
+        common_count = 0
         
+        for i in range(n):
+            # Add A[i] to seen and check if it was in B's prefix
+            if A[i] in seen:
+                common_count += 1
+            else:
+                seen.add(A[i])
+            
+            # Add B[i] to seen and check if it was in A's prefix
+            if B[i] in seen:
+                common_count += 1
+            else:
+                seen.add(B[i])
+            
+            res[i] = common_count
+            
         return res
