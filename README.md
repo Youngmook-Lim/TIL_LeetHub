@@ -22,6 +22,7 @@
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2195-time-needed-to-buy-tickets) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2469-longest-subsequence-with-limited-sum) |
@@ -86,6 +87,7 @@
 | [1642-water-bottles](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1642-water-bottles) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2195-time-needed-to-buy-tickets) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -206,6 +208,7 @@
 | ------- |
 | [0841-shortest-distance-to-a-character](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/0841-shortest-distance-to-a-character) |
 | [0958-sort-array-by-parity-ii](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/0958-sort-array-by-parity-ii) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2481-strictly-palindromic-number](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2481-strictly-palindromic-number) |
 | [2698-find-the-array-concatenation-value](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2698-find-the-array-concatenation-value) |
 ## Stack
