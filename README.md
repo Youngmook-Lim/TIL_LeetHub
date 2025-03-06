@@ -17,6 +17,7 @@
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1572-subrectangle-queries](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1572-subrectangle-queries) |
 | [1720-crawler-log-folder](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1720-crawler-log-folder) |
+| [1839-decode-xored-array](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1839-decode-xored-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -163,6 +164,7 @@
 | ------- |
 | [0476-number-complement](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/0476-number-complement) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
+| [1839-decode-xored-array](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1839-decode-xored-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2594-count-pairs-of-similar-strings) |
