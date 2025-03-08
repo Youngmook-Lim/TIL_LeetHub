@@ -44,6 +44,7 @@
 |  |
 | ------- |
 | [0500-keyboard-row](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/0500-keyboard-row) |
+| [0535-encode-and-decode-tinyurl](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/0535-encode-and-decode-tinyurl) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1256-rank-transform-of-an-array](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1256-rank-transform-of-an-array) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
@@ -118,6 +119,7 @@
 |  |
 | ------- |
 | [0500-keyboard-row](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/0500-keyboard-row) |
+| [0535-encode-and-decode-tinyurl](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/0535-encode-and-decode-tinyurl) |
 | [0841-shortest-distance-to-a-character](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/0841-shortest-distance-to-a-character) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -242,6 +244,7 @@
 ## Hash Function
 |  |
 | ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/0535-encode-and-decode-tinyurl) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Enumeration
 |  |
@@ -268,6 +271,7 @@
 ## Design
 |  |
 | ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/0535-encode-and-decode-tinyurl) |
 | [1572-subrectangle-queries](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1572-subrectangle-queries) |
 ## Backtracking
 |  |
