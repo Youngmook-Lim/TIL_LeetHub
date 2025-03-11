@@ -105,6 +105,7 @@
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [1005-univalued-binary-tree](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1005-univalued-binary-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Depth-First Search
 |  |
@@ -113,6 +114,7 @@
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [1005-univalued-binary-tree](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1005-univalued-binary-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -234,6 +236,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/0144-binary-tree-preorder-traversal) |
 | [1005-univalued-binary-tree](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1005-univalued-binary-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Trie
 |  |
