@@ -99,6 +99,7 @@
 | [2698-find-the-array-concatenation-value](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2698-find-the-array-concatenation-value) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Tree
 |  |
 | ------- |
@@ -149,6 +150,7 @@
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Counting
 |  |
 | ------- |
@@ -173,6 +175,7 @@
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/3704-count-partitions-with-even-sum-difference) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -280,6 +283,7 @@
 |  |
 | ------- |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -298,4 +302,8 @@
 |  |
 | ------- |
 | [2481-strictly-palindromic-number](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2481-strictly-palindromic-number) |
+## Combinatorics
+|  |
+| ------- |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 <!---LeetCode Topics End-->
