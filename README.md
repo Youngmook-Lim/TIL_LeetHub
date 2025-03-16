@@ -69,6 +69,7 @@
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2650-split-with-minimum-sum](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2650-split-with-minimum-sum) |
 ## Sorting
@@ -146,6 +147,7 @@
 | [2190-count-common-words-with-one-occurrence](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2476-check-distances-between-same-letters](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2476-check-distances-between-same-letters) |
 | [2580-circular-sentence](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2580-circular-sentence) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2594-count-pairs-of-similar-strings) |
@@ -242,6 +244,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/0144-binary-tree-preorder-traversal) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1720-crawler-log-folder](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1720-crawler-log-folder) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Binary Tree
 |  |
 | ------- |
@@ -300,6 +303,7 @@
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Brainteaser
 |  |
