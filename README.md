@@ -113,6 +113,7 @@
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [1005-univalued-binary-tree](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1005-univalued-binary-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1254-deepest-leaves-sum](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1254-deepest-leaves-sum) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -123,6 +124,7 @@
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [1005-univalued-binary-tree](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1005-univalued-binary-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1254-deepest-leaves-sum](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1254-deepest-leaves-sum) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -131,6 +133,7 @@
 | ------- |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [1005-univalued-binary-tree](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1005-univalued-binary-tree) |
+| [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1254-deepest-leaves-sum](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1254-deepest-leaves-sum) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## String
@@ -257,6 +260,7 @@
 | [0654-maximum-binary-tree](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/0654-maximum-binary-tree) |
 | [1005-univalued-binary-tree](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1005-univalued-binary-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1254-deepest-leaves-sum](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1254-deepest-leaves-sum) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2493-reverse-odd-levels-of-binary-tree) |
