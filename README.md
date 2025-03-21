@@ -26,6 +26,7 @@
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2195-time-needed-to-buy-tickets) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -154,6 +155,7 @@
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2243-check-if-all-as-appears-before-all-bs) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2476-check-distances-between-same-letters](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2476-check-distances-between-same-letters) |
@@ -181,6 +183,7 @@
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1642-water-bottles](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1642-water-bottles) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2481-strictly-palindromic-number](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2481-strictly-palindromic-number) |
 | [2650-split-with-minimum-sum](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2650-split-with-minimum-sum) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -239,6 +242,7 @@
 | [1094-matrix-cells-in-distance-order](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1094-matrix-cells-in-distance-order) |
 | [1572-subrectangle-queries](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1572-subrectangle-queries) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2631-sort-the-students-by-their-kth-score) |
 ## Two Pointers
 |  |
