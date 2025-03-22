@@ -149,6 +149,7 @@
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
+| [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1720-crawler-log-folder](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1720-crawler-log-folder) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -319,6 +320,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
