@@ -57,6 +57,7 @@
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1256-rank-transform-of-an-array](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1256-rank-transform-of-an-array) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -120,6 +121,7 @@
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1254-deepest-leaves-sum](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1254-deepest-leaves-sum) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Depth-First Search
@@ -131,6 +133,7 @@
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1254-deepest-leaves-sum](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1254-deepest-leaves-sum) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
@@ -140,6 +143,7 @@
 | [1005-univalued-binary-tree](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1005-univalued-binary-tree) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1254-deepest-leaves-sum](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1254-deepest-leaves-sum) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## String
 |  |
@@ -276,6 +280,7 @@
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1254-deepest-leaves-sum](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1254-deepest-leaves-sum) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Trie
@@ -322,6 +327,7 @@
 |  |
 | ------- |
 | [0535-encode-and-decode-tinyurl](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/0535-encode-and-decode-tinyurl) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1572-subrectangle-queries](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1572-subrectangle-queries) |
 ## Backtracking
 |  |
