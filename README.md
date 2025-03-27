@@ -199,6 +199,7 @@
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3817-maximum-containers-on-a-ship](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/3817-maximum-containers-on-a-ship) |
 ## Bit Manipulation
 |  |
 | ------- |
