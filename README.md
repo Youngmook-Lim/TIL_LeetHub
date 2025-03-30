@@ -75,6 +75,7 @@
 |  |
 | ------- |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/0825-max-increase-to-keep-city-skyline) |
+| [1285-balance-a-binary-search-tree](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1285-balance-a-binary-search-tree) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -125,6 +126,7 @@
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1254-deepest-leaves-sum](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1254-deepest-leaves-sum) |
+| [1285-balance-a-binary-search-tree](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1285-balance-a-binary-search-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -137,6 +139,7 @@
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1254-deepest-leaves-sum](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1254-deepest-leaves-sum) |
+| [1285-balance-a-binary-search-tree](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1285-balance-a-binary-search-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -289,6 +292,7 @@
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1254-deepest-leaves-sum](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1254-deepest-leaves-sum) |
+| [1285-balance-a-binary-search-tree](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1285-balance-a-binary-search-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -332,6 +336,7 @@
 |  |
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1285-balance-a-binary-search-tree) |
 ## Design
 |  |
 | ------- |
@@ -357,6 +362,7 @@
 |  |
 | ------- |
 | [0654-maximum-binary-tree](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/0654-maximum-binary-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1285-balance-a-binary-search-tree) |
 ## Monotonic Stack
 |  |
 | ------- |
