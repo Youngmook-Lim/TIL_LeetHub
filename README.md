@@ -18,6 +18,7 @@
 | [1256-rank-transform-of-an-array](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1256-rank-transform-of-an-array) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
+| [1525-queries-on-a-permutation-with-key](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1525-queries-on-a-permutation-with-key) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1572-subrectangle-queries](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1572-subrectangle-queries) |
 | [1720-crawler-log-folder](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1720-crawler-log-folder) |
@@ -106,6 +107,7 @@
 |  |
 | ------- |
 | [0921-spiral-matrix-iii](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/0921-spiral-matrix-iii) |
+| [1525-queries-on-a-permutation-with-key](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1525-queries-on-a-permutation-with-key) |
 | [1642-water-bottles](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1642-water-bottles) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2195-time-needed-to-buy-tickets) |
@@ -370,4 +372,8 @@
 |  |
 | ------- |
 | [0654-maximum-binary-tree](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/0654-maximum-binary-tree) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [1525-queries-on-a-permutation-with-key](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1525-queries-on-a-permutation-with-key) |
 <!---LeetCode Topics End-->
