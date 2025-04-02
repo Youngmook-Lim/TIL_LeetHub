@@ -21,6 +21,7 @@
 | [1525-queries-on-a-permutation-with-key](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1525-queries-on-a-permutation-with-key) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1572-subrectangle-queries](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1572-subrectangle-queries) |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1720-crawler-log-folder](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1720-crawler-log-folder) |
 | [1839-decode-xored-array](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1839-decode-xored-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -80,6 +81,7 @@
 | [1285-balance-a-binary-search-tree](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1285-balance-a-binary-search-tree) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -92,6 +94,7 @@
 | [0958-sort-array-by-parity-ii](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/0958-sort-array-by-parity-ii) |
 | [1094-matrix-cells-in-distance-order](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1094-matrix-cells-in-distance-order) |
 | [1256-rank-transform-of-an-array](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1256-rank-transform-of-an-array) |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2469-longest-subsequence-with-limited-sum) |
@@ -202,6 +205,7 @@
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1642-water-bottles](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1642-water-bottles) |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2481-strictly-palindromic-number](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2481-strictly-palindromic-number) |
@@ -376,4 +380,8 @@
 |  |
 | ------- |
 | [1525-queries-on-a-permutation-with-key](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1525-queries-on-a-permutation-with-key) |
+## Game Theory
+|  |
+| ------- |
+| [1683-maximum-number-of-coins-you-can-get](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1683-maximum-number-of-coins-you-can-get) |
 <!---LeetCode Topics End-->
