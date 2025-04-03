@@ -42,6 +42,7 @@
 | [2551-apply-operations-to-an-array](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2551-apply-operations-to-an-array) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2594-count-pairs-of-similar-strings) |
+| [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2698-find-the-array-concatenation-value](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2698-find-the-array-concatenation-value) |
@@ -119,6 +120,7 @@
 | [2299-merge-nodes-in-between-zeros](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2551-apply-operations-to-an-array](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2551-apply-operations-to-an-array) |
+| [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2698-find-the-array-concatenation-value](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2698-find-the-array-concatenation-value) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -274,6 +276,7 @@
 | [1572-subrectangle-queries](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1572-subrectangle-queries) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2631-sort-the-students-by-their-kth-score) |
 ## Two Pointers
 |  |
