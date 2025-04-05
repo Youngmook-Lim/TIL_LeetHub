@@ -55,6 +55,7 @@
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/3731-sum-of-variable-length-subarrays) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3832-minimum-cost-to-reach-every-position](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/3832-minimum-cost-to-reach-every-position) |
 ## Hash Table
 |  |
 | ------- |
