@@ -67,6 +67,7 @@
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
+| [2186-count-vowel-substrings-of-a-string](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
@@ -178,6 +179,7 @@
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
+| [2186-count-vowel-substrings-of-a-string](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2244-number-of-laser-beams-in-a-bank) |
