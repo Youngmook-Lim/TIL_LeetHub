@@ -13,6 +13,7 @@
 | [0921-spiral-matrix-iii](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/0921-spiral-matrix-iii) |
 | [0944-smallest-range-i](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/0944-smallest-range-i) |
 | [0958-sort-array-by-parity-ii](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/0958-sort-array-by-parity-ii) |
+| [1041-available-captures-for-rook](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1041-available-captures-for-rook) |
 | [1094-matrix-cells-in-distance-order](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1094-matrix-cells-in-distance-order) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
@@ -116,6 +117,7 @@
 |  |
 | ------- |
 | [0921-spiral-matrix-iii](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/0921-spiral-matrix-iii) |
+| [1041-available-captures-for-rook](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1041-available-captures-for-rook) |
 | [1525-queries-on-a-permutation-with-key](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1525-queries-on-a-permutation-with-key) |
 | [1642-water-bottles](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1642-water-bottles) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -281,6 +283,7 @@
 | ------- |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0921-spiral-matrix-iii](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/0921-spiral-matrix-iii) |
+| [1041-available-captures-for-rook](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1041-available-captures-for-rook) |
 | [1094-matrix-cells-in-distance-order](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1094-matrix-cells-in-distance-order) |
 | [1572-subrectangle-queries](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1572-subrectangle-queries) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2132-convert-1d-array-into-2d-array) |
