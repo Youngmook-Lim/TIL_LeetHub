@@ -61,6 +61,7 @@
 | [3731-sum-of-variable-length-subarrays](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/3731-sum-of-variable-length-subarrays) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3832-minimum-cost-to-reach-every-position](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/3832-minimum-cost-to-reach-every-position) |
+| [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -233,6 +234,7 @@
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3817-maximum-containers-on-a-ship](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/3817-maximum-containers-on-a-ship) |
+| [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Bit Manipulation
 |  |
 | ------- |
