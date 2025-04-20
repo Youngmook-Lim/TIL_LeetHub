@@ -219,6 +219,7 @@
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0944-smallest-range-i](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/0944-smallest-range-i) |
 | [1013-fibonacci-number](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1013-fibonacci-number) |
+| [1086-divisor-game](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1086-divisor-game) |
 | [1094-matrix-cells-in-distance-order](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1094-matrix-cells-in-distance-order) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
@@ -261,6 +262,7 @@
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1013-fibonacci-number) |
+| [1086-divisor-game](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1086-divisor-game) |
 ## Memoization
 |  |
 | ------- |
@@ -384,6 +386,7 @@
 ## Brainteaser
 |  |
 | ------- |
+| [1086-divisor-game](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1086-divisor-game) |
 | [2481-strictly-palindromic-number](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2481-strictly-palindromic-number) |
 ## Combinatorics
 |  |
@@ -405,5 +408,6 @@
 ## Game Theory
 |  |
 | ------- |
+| [1086-divisor-game](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1086-divisor-game) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1683-maximum-number-of-coins-you-can-get) |
 <!---LeetCode Topics End-->
