@@ -16,6 +16,7 @@
 | [1041-available-captures-for-rook](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1041-available-captures-for-rook) |
 | [1094-matrix-cells-in-distance-order](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1094-matrix-cells-in-distance-order) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1210-mean-of-array-after-removing-some-elements](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1256-rank-transform-of-an-array](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1256-rank-transform-of-an-array) |
 | [1306-minimum-absolute-difference](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1306-minimum-absolute-difference) |
@@ -104,6 +105,7 @@
 | [0506-relative-ranks](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/0506-relative-ranks) |
 | [0958-sort-array-by-parity-ii](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/0958-sort-array-by-parity-ii) |
 | [1094-matrix-cells-in-distance-order](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1094-matrix-cells-in-distance-order) |
+| [1210-mean-of-array-after-removing-some-elements](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1256-rank-transform-of-an-array](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1256-rank-transform-of-an-array) |
 | [1306-minimum-absolute-difference](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1306-minimum-absolute-difference) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1683-maximum-number-of-coins-you-can-get) |
