@@ -146,6 +146,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/0144-binary-tree-preorder-traversal) |
 | [0654-maximum-binary-tree](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/0654-maximum-binary-tree) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/0774-maximum-depth-of-n-ary-tree) |
+| [0904-leaf-similar-trees](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/0904-leaf-similar-trees) |
 | [1005-univalued-binary-tree](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1005-univalued-binary-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
@@ -159,6 +160,7 @@
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/0144-binary-tree-preorder-traversal) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/0774-maximum-depth-of-n-ary-tree) |
+| [0904-leaf-similar-trees](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/0904-leaf-similar-trees) |
 | [1005-univalued-binary-tree](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1005-univalued-binary-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
@@ -323,6 +325,7 @@
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/0144-binary-tree-preorder-traversal) |
 | [0654-maximum-binary-tree](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/0654-maximum-binary-tree) |
+| [0904-leaf-similar-trees](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/0904-leaf-similar-trees) |
 | [1005-univalued-binary-tree](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1005-univalued-binary-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
