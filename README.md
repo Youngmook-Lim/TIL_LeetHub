@@ -7,6 +7,7 @@
 | [0500-keyboard-row](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/0506-relative-ranks) |
 | [0654-maximum-binary-tree](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/0654-maximum-binary-tree) |
+| [0822-unique-morse-code-words](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/0822-unique-morse-code-words) |
 | [0824-number-of-lines-to-write-string](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/0824-number-of-lines-to-write-string) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0841-shortest-distance-to-a-character](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/0841-shortest-distance-to-a-character) |
@@ -68,6 +69,7 @@
 | ------- |
 | [0500-keyboard-row](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/0500-keyboard-row) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/0535-encode-and-decode-tinyurl) |
+| [0822-unique-morse-code-words](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/0822-unique-morse-code-words) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1256-rank-transform-of-an-array](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1256-rank-transform-of-an-array) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
@@ -183,6 +185,7 @@
 | ------- |
 | [0500-keyboard-row](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/0500-keyboard-row) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/0535-encode-and-decode-tinyurl) |
+| [0822-unique-morse-code-words](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/0822-unique-morse-code-words) |
 | [0824-number-of-lines-to-write-string](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/0824-number-of-lines-to-write-string) |
 | [0841-shortest-distance-to-a-character](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/0841-shortest-distance-to-a-character) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1112-find-words-that-can-be-formed-by-characters) |
