@@ -23,6 +23,7 @@
 | [1306-minimum-absolute-difference](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1306-minimum-absolute-difference) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1525-queries-on-a-permutation-with-key](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1525-queries-on-a-permutation-with-key) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1572-subrectangle-queries](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1572-subrectangle-queries) |
@@ -111,6 +112,7 @@
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1256-rank-transform-of-an-array](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1256-rank-transform-of-an-array) |
 | [1306-minimum-absolute-difference](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1306-minimum-absolute-difference) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -279,6 +281,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Prefix Sum
@@ -313,6 +316,7 @@
 | ------- |
 | [0841-shortest-distance-to-a-character](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/0841-shortest-distance-to-a-character) |
 | [0958-sort-array-by-parity-ii](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/0958-sort-array-by-parity-ii) |
+| [1486-find-the-distance-value-between-two-arrays](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2481-strictly-palindromic-number](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2481-strictly-palindromic-number) |
 | [2551-apply-operations-to-an-array](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2551-apply-operations-to-an-array) |
