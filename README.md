@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/0268-missing-number) |
 | [0500-keyboard-row](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/0506-relative-ranks) |
 | [0654-maximum-binary-tree](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/0654-maximum-binary-tree) |
@@ -69,6 +70,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/0268-missing-number) |
 | [0500-keyboard-row](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/0500-keyboard-row) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/0535-encode-and-decode-tinyurl) |
 | [0822-unique-morse-code-words](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/0822-unique-morse-code-words) |
@@ -107,6 +109,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/0268-missing-number) |
 | [0506-relative-ranks](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/0506-relative-ranks) |
 | [0958-sort-array-by-parity-ii](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/0958-sort-array-by-parity-ii) |
 | [1094-matrix-cells-in-distance-order](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1094-matrix-cells-in-distance-order) |
@@ -228,6 +231,7 @@
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/0268-missing-number) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0944-smallest-range-i](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/0944-smallest-range-i) |
 | [1013-fibonacci-number](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1013-fibonacci-number) |
@@ -253,6 +257,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/0268-missing-number) |
 | [0476-number-complement](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/0476-number-complement) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
@@ -283,6 +288,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/0268-missing-number) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
