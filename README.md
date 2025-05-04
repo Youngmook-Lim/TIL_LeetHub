@@ -8,6 +8,7 @@
 | [0500-keyboard-row](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/0506-relative-ranks) |
 | [0654-maximum-binary-tree](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/0654-maximum-binary-tree) |
+| [0777-toeplitz-matrix](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/0777-toeplitz-matrix) |
 | [0822-unique-morse-code-words](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/0822-unique-morse-code-words) |
 | [0824-number-of-lines-to-write-string](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/0824-number-of-lines-to-write-string) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/0825-max-increase-to-keep-city-skyline) |
@@ -315,6 +316,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0777-toeplitz-matrix](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/0777-toeplitz-matrix) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0921-spiral-matrix-iii](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/0921-spiral-matrix-iii) |
 | [1041-available-captures-for-rook](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1041-available-captures-for-rook) |
