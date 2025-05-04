@@ -1,26 +1,12 @@
 class Solution:
     def isToeplitzMatrix(self, matrix: List[List[int]]) -> bool:
         
-        n = len(matrix)
-        m = len(matrix[0])
-        for i in range(n - 1, -1, -1):
-            x = 0
-            y = i
-            val = matrix[y][x]
-            while y < n and x < m:
-                if val != matrix[y][x]:
-                    return False
-                x += 1
-                y += 1
-        
-        for i in range(m):
-            x = i
-            y = 0
-            val = matrix[y][x]
-            while y < n and x < m:
-                if val != matrix[y][x]:
-                    return False
-                x += 1
-                y += 1
-        
+        rows = len(matrix)
+        cols = len(matrix[0])
+
+        for r in range(rows - 1):
+            for c in range(cols - 1):
+                if matrix[r][c] != matrix[r + 1][c + 1]:
+                    return False 
+
         return True
