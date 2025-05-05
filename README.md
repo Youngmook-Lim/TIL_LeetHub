@@ -7,6 +7,7 @@
 | [0268-missing-number](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/0268-missing-number) |
 | [0500-keyboard-row](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/0506-relative-ranks) |
+| [0575-distribute-candies](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/0575-distribute-candies) |
 | [0654-maximum-binary-tree](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/0654-maximum-binary-tree) |
 | [0777-toeplitz-matrix](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/0777-toeplitz-matrix) |
 | [0822-unique-morse-code-words](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/0822-unique-morse-code-words) |
@@ -75,6 +76,7 @@
 | [0268-missing-number](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/0268-missing-number) |
 | [0500-keyboard-row](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/0500-keyboard-row) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/0535-encode-and-decode-tinyurl) |
+| [0575-distribute-candies](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/0575-distribute-candies) |
 | [0822-unique-morse-code-words](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/0822-unique-morse-code-words) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1256-rank-transform-of-an-array](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1256-rank-transform-of-an-array) |
