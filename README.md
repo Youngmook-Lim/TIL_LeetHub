@@ -129,6 +129,7 @@
 | [2566-number-of-unequal-triplets-in-array](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2650-split-with-minimum-sum](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2650-split-with-minimum-sum) |
+| [3859-maximum-product-of-two-digits](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/3859-maximum-product-of-two-digits) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -260,6 +261,7 @@
 | [3817-maximum-containers-on-a-ship](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/3817-maximum-containers-on-a-ship) |
 | [3830-find-closest-person](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/3830-find-closest-person) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3859-maximum-product-of-two-digits](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/3859-maximum-product-of-two-digits) |
 ## Bit Manipulation
 |  |
 | ------- |
