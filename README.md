@@ -202,6 +202,7 @@
 | [0822-unique-morse-code-words](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/0822-unique-morse-code-words) |
 | [0824-number-of-lines-to-write-string](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/0824-number-of-lines-to-write-string) |
 | [0841-shortest-distance-to-a-character](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/0841-shortest-distance-to-a-character) |
+| [0851-goat-latin](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/0851-goat-latin) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1302-delete-characters-to-make-fancy-string) |
