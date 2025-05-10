@@ -35,6 +35,7 @@
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1720-crawler-log-folder](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1720-crawler-log-folder) |
 | [1839-decode-xored-array](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1839-decode-xored-array) |
+| [1888-find-nearest-point-that-has-the-same-x-or-y-coordinate](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1888-find-nearest-point-that-has-the-same-x-or-y-coordinate) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1939-queries-on-number-of-points-inside-a-circle](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1939-queries-on-number-of-points-inside-a-circle) |
 | [1940-maximum-xor-for-each-query](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1940-maximum-xor-for-each-query) |
