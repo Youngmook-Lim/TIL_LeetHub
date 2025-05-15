@@ -100,6 +100,7 @@
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Greedy
 |  |
 | ------- |
@@ -113,6 +114,7 @@
 | [2456-construct-smallest-number-from-di-string](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2650-split-with-minimum-sum](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2650-split-with-minimum-sum) |
+| [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Sorting
 |  |
 | ------- |
@@ -134,6 +136,7 @@
 | [2631-sort-the-students-by-their-kth-score](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2650-split-with-minimum-sum](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2650-split-with-minimum-sum) |
 | [3859-maximum-product-of-two-digits](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/3859-maximum-product-of-two-digits) |
+| [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -232,6 +235,7 @@
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3811-reverse-degree-of-a-string](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/3811-reverse-degree-of-a-string) |
+| [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Counting
 |  |
 | ------- |
@@ -240,6 +244,7 @@
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2594-count-pairs-of-similar-strings) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Math
 |  |
 | ------- |
