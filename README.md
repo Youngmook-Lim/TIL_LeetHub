@@ -23,6 +23,7 @@
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1256-rank-transform-of-an-array](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1256-rank-transform-of-an-array) |
+| [1293-three-consecutive-odds](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1293-three-consecutive-odds) |
 | [1306-minimum-absolute-difference](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1306-minimum-absolute-difference) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
