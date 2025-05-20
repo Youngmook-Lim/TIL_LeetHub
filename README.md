@@ -59,6 +59,7 @@
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2631-sort-the-students-by-their-kth-score) |
+| [2675-find-the-width-of-columns-of-a-grid](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2675-find-the-width-of-columns-of-a-grid) |
 | [2698-find-the-array-concatenation-value](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2698-find-the-array-concatenation-value) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -341,6 +342,7 @@
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2631-sort-the-students-by-their-kth-score) |
+| [2675-find-the-width-of-columns-of-a-grid](https://github.com/Youngmook-Lim/TIL_LeetHub/tree/master/2675-find-the-width-of-columns-of-a-grid) |
 ## Two Pointers
 |  |
 | ------- |
